@@ -32,7 +32,6 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
@@ -43,9 +42,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dhohirpradana&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
-</details>
 
-<details>
  <summary>🏆 <b>Github Profile Trophy</b></summary>
  <br />
  <p align="center">
@@ -53,10 +50,8 @@
    <img src="https://github-profile-trophy.vercel.app/?username=dhohirpradana&column=8&theme=darkhub"/>
   </a>
  </p>
-</details>
 
 
-<details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
@@ -65,4 +60,3 @@
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
 	</ul>
-</details>

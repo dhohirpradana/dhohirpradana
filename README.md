@@ -32,7 +32,7 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-  <summary>📊 <b>Github Readme Stats</b></summary>
+  <summary>📊 <b>Github Stats</b></summary>
  <br />
  <p align="center">
   <a href="https://github.com/dhohirpradana">

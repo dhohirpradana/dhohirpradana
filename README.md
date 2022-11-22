@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Dhohir Pradana 🎯️🚀️</h1>
 <h3 align="center">I`m interest in programming and technology.</h3>
 
-<img align="right" alt="coding" width="300" src="https://lh3.googleusercontent.com/p/AF1QipOAtGtnQ43y_mXtE2irQXmXwAr2Osynar3dljlX=h305-no">
+<img align="right" alt="coding" width="300" src="https://i.ibb.co/pXxcndk/258cc6c6-52ad-4544-b688-bc6664300269.png">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 

@@ -3,7 +3,7 @@
 <h3 align="center">I`m interest in programming and technology.</h3>
 
 <!-- <img align="right" alt="coding" width="300" src="https://i.ibb.co/pXxcndk/258cc6c6-52ad-4544-b688-bc6664300269.png"> -->
-![alt text](https://github.com/dhohirpradana/dhohirpradana/blob/master/pngegg.png?raw=true)
+<p align="right" alt="coding" width="300">![alt text](https://github.com/dhohirpradana/dhohirpradana/blob/master/pngegg.png?raw=true)</p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 

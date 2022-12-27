@@ -63,3 +63,19 @@
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
 	</ul>
+	
+```js
+import SoftwareDeveloper from 'dhohirpradana';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Dhohir Pradana';
+  title    = 'Software Engineer';
+  location = 'Jakarta, ID';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['Dart', 'JavaScript', 'PHP', 'Python'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'GraphQL', 'Flutter'];
+}
+```

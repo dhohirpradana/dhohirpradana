@@ -63,7 +63,7 @@
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
 	</ul>
-	
+<!-- 	
 ```js
 import SoftwareDeveloper from 'dhohirpradana';
 
@@ -78,4 +78,4 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native', 'GraphQL', 'Flutter'];
 }
-```
+``` -->

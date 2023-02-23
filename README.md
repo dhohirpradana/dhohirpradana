@@ -17,6 +17,7 @@
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <p align="center"> 
+<a href="https://linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38"/> </a>
 <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" height="38"/> </a>
 <a href="https://docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> </a>
 <a href="https://gitlab.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/g/37/gitlab.svg" width="40" height="40"/> </a>

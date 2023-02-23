@@ -18,6 +18,7 @@
 
 <p align="center"> 
 <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> </a>
+<a href="https://docker.com/" target="_blank"> <img src="https://icons8.com/icon/cdYUlRaag9G9/docker" width="40" height="40"/> </a>
 <a href="https://python.org/" target="_blank"><img src="https://img.icons8.com/color/512/python.png" width="40" height="40"/> </a>
 <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>

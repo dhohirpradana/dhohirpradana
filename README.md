@@ -18,6 +18,7 @@
 
 <p align="center"> 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="38" height="38"/> </a>
+<a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="38" height="38"/> </a>
 <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" height="38"/> </a>
 <a href="https://docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> </a>
 <a href="https://gitlab.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/g/37/gitlab.svg" width="40" height="40"/> </a>
